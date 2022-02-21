@@ -1,0 +1,7 @@
+{
+  "name": "event-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
